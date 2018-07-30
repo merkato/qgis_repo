@@ -1,0 +1,64 @@
+GIMP Palette
+Name: QGIS Palette
+Columns: 4
+#
+221 183 141	1 - sjena palona jasna
+218 162 112	2 - sjena palona
+213 146  86	3 - sjena palona ciemna
+213 210 254	4 - fiolet jasny
+193 187 254	5 - fiolet
+174 165 255	6 - fiolet ciemny
+135 206 250	7 - ultramaryna jasna
+ 82 175 252	8 - ultramaryna
+ 30 144 255	9 - ultramaryna ciemna
+210 210 210	10 - czerń słoniowa jasna
+175 175 175	11 - czerń słoniowa
+140 140 140	12 - czerń słoniowa ciemna
+254 234 180	13 - ugier złoty jasny
+254 212  90	14 - ugier złoty
+255 191   0	15 - ugier złoty ciemny
+188 227 137	16 - zieleń cynobrowa
+153 187 104	17 - zieleń chromowa
+118 147  72	18 - zieleń chromowa ciemna
+221 254 230	19 - zieleń soczysta jasna
+110 254 169	20 - zieleń soczysta średnia
+  0 254 118	21 - zieleń soczysta ciemna
+210 254 251	22 - błękit pruski jasny
+134 243 239	23 - błękit pruski
+ 64 230 231	24 - błękit pruski ciemny
+255 225 225	25 - karmin jasny
+255 180 180	26 - karmin
+255 135 135	27 - karmin ciemny
+123 104 238	28 - kobalt
+252 103  48	29 - sjena palona z karminem
+255  54  82	30 - cynober
+205   0   0	31 - czerwień ciemna
+255 255   0	32 - żółty
+255 193  37	33 - sjena palona z gumigutą
+243 124  52	34 - żółty z karminem
+195 197 205	35 - grynszpan z czerwienią
+137 192 192	36 - czerń słoniowa z błękitem
+ 67 205 128	37 - grynszpan
+  0  98 102	38 - zieleń kobaltowa
+130  95 170	39 - czerń słoniowa zfioletem
+238 201   0	40 - ochra palona jasna
+113 187 113	41 - czerń słoniowa z zielenią soczystą
+255 226 175	42 - umber palony
+158 240 244	44 - zieleń soczysta z błękitem
+ 84 180 120	45 - oliwkowy
+  0 100   0	46 - zieleń
+105 135   0	47 - zieleń zgniła
+139  69  19	48 - brąz
+  0 255 255	49 - błękit
+153  89  36	51 -sepia
+255   0   0	55 - czerwony
+105 105 105	56 - szary
+255 125  20	57 - pomarańczowy
+  0   0   0	100 -czarny
+255 255 255	101 - biały
+255 128 255	102 - róż
+192 192 192	103 - szary jasny
+165 151 242	104 - kobalt jasny
+113 207 192	105 - cyjan I
+ 36 248 242	106 - cyjan II
+207 255 255	107 -cyjan III
