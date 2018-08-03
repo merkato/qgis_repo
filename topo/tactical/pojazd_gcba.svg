@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="42"
+   height="42"
+   id="svg3721"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Nowy dokument 9">
+  <defs
+     id="defs3723">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3264">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 467.16,522.14 17.52,0 0,6.66 -17.52,0 0,-6.66 z"
+         id="path3266" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3248">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 458.4,541.64 35.28,0 0,-31.44 -35.28,0 0,31.44 z"
+         clip-rule="evenodd"
+         id="path3250" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3726">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1010.3622)">
+    <g
+       transform="matrix(1.2211189,0,0,-1.2211189,-560.44798,1673.6463)"
+       id="g3244">
+      <g
+         id="g3246"
+         clip-path="url(#clipPath3248)">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 476.16,540.68 c -8.28,0 -15.06,-6.66 -15.06,-14.88 0,-8.22 6.78,-14.88 15.06,-14.88 8.34,0 15.06,6.66 15.06,14.88 0,8.22 -6.72,14.88 -15.06,14.88 z"
+           style="fill:none;stroke:#000000;stroke-width:0.99900001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+           id="path3252" />
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 8.5445773,1021.0315 c 0,6.2766 0,12.5531 0,18.8297 l 24.3979557,0 0,-18.8297 c -7.287637,5.644 -16.797712,5.0164 -24.3979557,0 z"
+       style="fill:none;stroke:#000000;stroke-width:1.21989775;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path3254" />
+    <text
+       style="font-size:14.63680744px"
+       y="1035.6136"
+       x="9.998579"
+       transform="scale(1.0011355,0.99886579)"
+       id="text3256">
+      <tspan
+         style="font-size:7.31693983px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
+         x="9.998579 15.692612 20.976902"
+         y="1035.6136"
+         sodipodi:role="line"
+         id="tspan3258">GCB</tspan>
+    </text>
+    <g
+       transform="matrix(1.2211189,0,0,-1.2211189,-560.44798,1673.6463)"
+       id="g3260">
+      <g
+         id="g3262"
+         clip-path="url(#clipPath3264)">
+        <text
+           transform="matrix(1,0,0,-0.99773288,480.48,523.4603)"
+           id="text3268">
+          <tspan
+             style="font-size:5.9987998px;font-variant:normal;font-weight:bold;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial-BoldMT"
+             x="0"
+             y="0"
+             id="tspan3270">A</tspan>
+        </text>
+      </g>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 29.059375,1040.5938 c -1.245541,0 -2.198014,0.9525 -2.198014,2.0515 0,1.1723 0.952473,2.0515 2.198014,2.0515 1.245542,0 2.271281,-0.8792 2.271281,-2.0515 0,-1.099 -1.025739,-2.0515 -2.271281,-2.0515 z m -16.338571,0 c -1.245541,0 -2.198014,0.8792 -2.198014,1.9782 0,1.0991 0.952473,2.0515 2.198014,2.0515 1.172274,0 2.124747,-0.9524 2.124747,-2.0515 0,-1.099 -0.952473,-1.9782 -2.124747,-1.9782 z"
+       style="fill:none;stroke:#000000;stroke-width:1.21989775;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path3272" />
+  </g>
+</svg>
