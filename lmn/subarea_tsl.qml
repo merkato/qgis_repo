@@ -37,39 +37,39 @@
   <renderer-v2 forceraster="0" enableorderby="0" symbollevels="0" type="RuleRenderer">
     <rules key="{bb0744ae-5df9-43c1-bf2d-38e7f0119199}">
       <rule symbol="0" label="Siedliska nizinne" key="{117c3f9b-89b4-41c2-8fb9-02cb15d622e0}">
-        <rule filter=" &quot;site_type&quot; = 'BS' " symbol="1" label="Bór suchy" key="{a5745a39-889b-4f82-9549-63be49e761f1}"/>
-        <rule filter=" &quot;site_type&quot; LIKE 'B%' AND NOT &quot;site_type&quot; = 'BS' " symbol="2" label="Bór świeży" key="{dd1f2a97-d567-46cd-a0d0-69daa5452d66}"/>
-        <rule filter=" &quot;site_type&quot; LIKE 'BM%' " symbol="3" label="Bór mieszany" key="{5ec2d310-4121-4681-af04-ac117602bd50}"/>
-        <rule filter=" &quot;site_type&quot; LIKE 'L%' " symbol="4" label="Las świeży" key="{2642bc58-0e24-4044-be45-475d1f1f8b90}"/>
-        <rule filter=" &quot;site_type&quot; LIKE 'LM%' AND NOT &quot;site_type&quot; LIKE 'LMG%'" symbol="5" label="Las mieszany świeży" key="{ddd98d4e-30cf-48c7-87f8-3221f5dbac9c}"/>
-        <rule filter=" &quot;site_type&quot; = 'OL' " symbol="6" label="Ols" key="{f6ad895e-b8c7-4c9e-a92e-3663d2c5afa6}"/>
+        <rule filter=" &quot;typ_sied&quot; = 'BS' " symbol="1" label="Bór suchy" key="{a5745a39-889b-4f82-9549-63be49e761f1}"/>
+        <rule filter=" &quot;typ_sied&quot; LIKE 'B%' AND NOT &quot;typ_sied&quot; = 'BS' " symbol="2" label="Bór świeży" key="{dd1f2a97-d567-46cd-a0d0-69daa5452d66}"/>
+        <rule filter=" &quot;typ_sied&quot; LIKE 'BM%' " symbol="3" label="Bór mieszany" key="{5ec2d310-4121-4681-af04-ac117602bd50}"/>
+        <rule filter=" &quot;typ_sied&quot; LIKE 'L%' " symbol="4" label="Las świeży" key="{2642bc58-0e24-4044-be45-475d1f1f8b90}"/>
+        <rule filter=" &quot;typ_sied&quot; LIKE 'LM%' AND NOT &quot;typ_sied&quot; LIKE 'LMG%'" symbol="5" label="Las mieszany świeży" key="{ddd98d4e-30cf-48c7-87f8-3221f5dbac9c}"/>
+        <rule filter=" &quot;typ_sied&quot; = 'OL' " symbol="6" label="Ols" key="{f6ad895e-b8c7-4c9e-a92e-3663d2c5afa6}"/>
       </rule>
       <rule symbol="7" label="Siedliska nizinne łęgowe" key="{6bfac887-ecdc-4304-91ba-7560f03475b4}">
-        <rule filter=" &quot;site_type&quot; = 'LŁ' " symbol="8" label="Las łęgowy" key="{41b08406-de8b-4ee5-ad5a-5e9e392bd316}"/>
-        <rule filter=" &quot;site_type&quot; = 'OLJ' " symbol="9" label="Ols jesionowy" key="{b8295d05-75de-43b8-8787-6542bc123404}"/>
+        <rule filter=" &quot;typ_sied&quot; = 'LŁ' " symbol="8" label="Las łęgowy" key="{41b08406-de8b-4ee5-ad5a-5e9e392bd316}"/>
+        <rule filter=" &quot;typ_sied&quot; = 'OLJ' " symbol="9" label="Ols jesionowy" key="{b8295d05-75de-43b8-8787-6542bc123404}"/>
       </rule>
       <rule symbol="10" label="Siedliska wyżynne" key="{dfa52180-8716-47d0-a060-c5eed8b90bf9}">
-        <rule filter=" &quot;site_type&quot; LIKE 'BMWYŻ%' " symbol="11" label="Bór mieszany wyżynny (świeży)" key="{ed49a160-546b-4d85-99cf-e3812f1e504a}"/>
-        <rule filter=" &quot;site_type&quot; LIKE 'LMWYŻ%' " symbol="12" label="Las mieszany wyżynny (świeży)" key="{17dc09be-3bd8-4b01-8e99-505602f8d92a}"/>
-        <rule filter=" &quot;site_type&quot; LIKE 'LWYŻ%' " symbol="13" label="Las wyżynny (świeży)" key="{8f0ea9e6-d29c-4e16-aa7f-132761a7e5f9}"/>
+        <rule filter=" &quot;typ_sied&quot; LIKE 'BMWYŻ%' " symbol="11" label="Bór mieszany wyżynny (świeży)" key="{ed49a160-546b-4d85-99cf-e3812f1e504a}"/>
+        <rule filter=" &quot;typ_sied&quot; LIKE 'LMWYŻ%' " symbol="12" label="Las mieszany wyżynny (świeży)" key="{17dc09be-3bd8-4b01-8e99-505602f8d92a}"/>
+        <rule filter=" &quot;typ_sied&quot; LIKE 'LWYŻ%' " symbol="13" label="Las wyżynny (świeży)" key="{8f0ea9e6-d29c-4e16-aa7f-132761a7e5f9}"/>
       </rule>
       <rule symbol="14" label="Siedliska wyżynne łęgowe" key="{a09d2850-0d85-4145-b495-5139883ce772}">
-        <rule filter=" &quot;site_type&quot; = 'LŁW' " symbol="15" label="Las łęgowy wyżynny" key="{3a02dd9e-209b-4632-91a5-44107174a491}"/>
-        <rule filter=" &quot;site_type&quot; = 'OLJWYŻ' " symbol="16" label="Ols jesionowy wyżynny" key="{0bab22c4-2d02-439a-a984-27264cd20647}"/>
+        <rule filter=" &quot;typ_sied&quot; = 'LŁW' " symbol="15" label="Las łęgowy wyżynny" key="{3a02dd9e-209b-4632-91a5-44107174a491}"/>
+        <rule filter=" &quot;typ_sied&quot; = 'OLJWYŻ' " symbol="16" label="Ols jesionowy wyżynny" key="{0bab22c4-2d02-439a-a984-27264cd20647}"/>
       </rule>
       <rule symbol="17" label="Siedliska górskie" key="{311f4eed-c553-4be8-91ed-f65467705861}">
-        <rule filter=" &quot;site_type&quot; LIKE 'BWG%' " symbol="18" label="Bór wysokogórski (świeży)" key="{5f11b095-f829-423a-81e4-4de62e63b816}"/>
-        <rule filter=" &quot;site_type&quot; LIKE 'BG%' " symbol="19" label="Bór górski (świeży)" key="{2419e773-0f31-48fb-9553-25a37b42bef1}"/>
-        <rule filter=" &quot;site_type&quot; LIKE 'BMG%' " symbol="20" label="Bór mieszany górski (świeży)" key="{2d8472be-c6ce-4560-bc71-c17d141015ba}"/>
-        <rule filter=" &quot;site_type&quot; = 'LMGŚW' " symbol="21" label="Las mieszany górski (świeży)" key="{82187a8d-2662-4c26-b68e-b42c8a1b7b29}"/>
-        <rule filter=" &quot;site_type&quot; LIKE 'LG%' " symbol="22" label="Las górski (świeży)" key="{7d31ae65-86df-4b45-85b4-4c312fac6bb5}"/>
+        <rule filter=" &quot;typ_sied&quot; LIKE 'BWG%' " symbol="18" label="Bór wysokogórski (świeży)" key="{5f11b095-f829-423a-81e4-4de62e63b816}"/>
+        <rule filter=" &quot;typ_sied&quot; LIKE 'BG%' " symbol="19" label="Bór górski (świeży)" key="{2419e773-0f31-48fb-9553-25a37b42bef1}"/>
+        <rule filter=" &quot;typ_sied&quot; LIKE 'BMG%' " symbol="20" label="Bór mieszany górski (świeży)" key="{2d8472be-c6ce-4560-bc71-c17d141015ba}"/>
+        <rule filter=" &quot;typ_sied&quot; = 'LMGŚW' " symbol="21" label="Las mieszany górski (świeży)" key="{82187a8d-2662-4c26-b68e-b42c8a1b7b29}"/>
+        <rule filter=" &quot;typ_sied&quot; LIKE 'LG%' " symbol="22" label="Las górski (świeży)" key="{7d31ae65-86df-4b45-85b4-4c312fac6bb5}"/>
       </rule>
       <rule symbol="23" label="Siedliska górskie łęgowe" key="{888338a3-9fe5-46de-b8dd-3b949c9b02bf}">
-        <rule filter=" &quot;site_type&quot; = 'LŁG' " symbol="24" label="Las łęgowy górski" key="{566ef0f5-ff66-4872-a0d4-2cf47c6733e2}"/>
-        <rule filter=" &quot;site_type&quot; = 'OLJG' " symbol="25" label="Ols jesionowy górski" key="{9ebbfe06-54cb-40f0-940d-365bd9bdf4c0}"/>
+        <rule filter=" &quot;typ_sied&quot; = 'LŁG' " symbol="24" label="Las łęgowy górski" key="{566ef0f5-ff66-4872-a0d4-2cf47c6733e2}"/>
+        <rule filter=" &quot;typ_sied&quot; = 'OLJG' " symbol="25" label="Ols jesionowy górski" key="{9ebbfe06-54cb-40f0-940d-365bd9bdf4c0}"/>
       </rule>
-      <rule filter=" &quot;site_type&quot; LIKE '%W' AND NOT &quot;site_type&quot; LIKE '%ŚW'" symbol="26" label="Siedliska wilgotne" key="{d44fccb5-c12d-4ec5-a917-70def5f849ef}"/>
-      <rule filter="&quot;site_type&quot; LIKE '%B'" symbol="27" label="Siedliska bagienne" key="{6520dfa1-00d4-4e14-a715-c9acce37e915}"/>
+      <rule filter=" &quot;typ_sied&quot; LIKE '%W' AND NOT &quot;typ_sied&quot; LIKE '%ŚW'" symbol="26" label="Siedliska wilgotne" key="{d44fccb5-c12d-4ec5-a917-70def5f849ef}"/>
+      <rule filter="&quot;typ_sied&quot; LIKE '%B'" symbol="27" label="Siedliska bagienne" key="{6520dfa1-00d4-4e14-a715-c9acce37e915}"/>
       <rule filter="ELSE" symbol="28" label="pozostałe i nieoznaczone" key="{04207b8e-26ae-45ff-9473-e13200c0a217}"/>
     </rules>
     <symbols>
@@ -868,7 +868,7 @@
         </config>
       </editWidget>
     </field>
-    <field name="site_type">
+    <field name="typ_sied">
       <editWidget type="TextEdit">
         <config>
           <Option/>
@@ -951,7 +951,7 @@
     <alias field="a_i_num" index="1" name=""/>
     <alias field="adr_for" index="2" name=""/>
     <alias field="area_type" index="3" name=""/>
-    <alias field="site_type" index="4" name=""/>
+    <alias field="typ_sied" index="4" name=""/>
     <alias field="silvicult" index="5" name=""/>
     <alias field="forest_fun" index="6" name=""/>
     <alias field="stand_stru" index="7" name=""/>
@@ -970,7 +970,7 @@
     <default field="a_i_num" applyOnUpdate="0" expression=""/>
     <default field="adr_for" applyOnUpdate="0" expression=""/>
     <default field="area_type" applyOnUpdate="0" expression=""/>
-    <default field="site_type" applyOnUpdate="0" expression=""/>
+    <default field="typ_sied" applyOnUpdate="0" expression=""/>
     <default field="silvicult" applyOnUpdate="0" expression=""/>
     <default field="forest_fun" applyOnUpdate="0" expression=""/>
     <default field="stand_stru" applyOnUpdate="0" expression=""/>
@@ -987,7 +987,7 @@
     <constraint field="a_i_num" constraints="0" unique_strength="0" notnull_strength="0" exp_strength="0"/>
     <constraint field="adr_for" constraints="0" unique_strength="0" notnull_strength="0" exp_strength="0"/>
     <constraint field="area_type" constraints="0" unique_strength="0" notnull_strength="0" exp_strength="0"/>
-    <constraint field="site_type" constraints="0" unique_strength="0" notnull_strength="0" exp_strength="0"/>
+    <constraint field="typ_sied" constraints="0" unique_strength="0" notnull_strength="0" exp_strength="0"/>
     <constraint field="silvicult" constraints="0" unique_strength="0" notnull_strength="0" exp_strength="0"/>
     <constraint field="forest_fun" constraints="0" unique_strength="0" notnull_strength="0" exp_strength="0"/>
     <constraint field="stand_stru" constraints="0" unique_strength="0" notnull_strength="0" exp_strength="0"/>
@@ -1004,7 +1004,7 @@
     <constraint field="a_i_num" desc="" exp=""/>
     <constraint field="adr_for" desc="" exp=""/>
     <constraint field="area_type" desc="" exp=""/>
-    <constraint field="site_type" desc="" exp=""/>
+    <constraint field="typ_sied" desc="" exp=""/>
     <constraint field="silvicult" desc="" exp=""/>
     <constraint field="forest_fun" desc="" exp=""/>
     <constraint field="stand_stru" desc="" exp=""/>
@@ -1025,7 +1025,7 @@
       <column name="a_i_num" width="-1" hidden="0" type="field"/>
       <column name="adr_for" width="-1" hidden="0" type="field"/>
       <column name="area_type" width="-1" hidden="0" type="field"/>
-      <column name="site_type" width="-1" hidden="0" type="field"/>
+      <column name="typ_sied" width="-1" hidden="0" type="field"/>
       <column name="silvicult" width="-1" hidden="0" type="field"/>
       <column name="forest_fun" width="-1" hidden="0" type="field"/>
       <column name="stand_stru" width="-1" hidden="0" type="field"/>
@@ -1073,7 +1073,7 @@ def my_form_open(dialog, layer, feature):
     <field name="prot_categ" editable="1"/>
     <field name="rotat_age" editable="1"/>
     <field name="silvicult" editable="1"/>
-    <field name="site_type" editable="1"/>
+    <field name="typ_sied" editable="1"/>
     <field name="spec_age" editable="1"/>
     <field name="species_cd" editable="1"/>
     <field name="stand_stru" editable="1"/>
@@ -1090,7 +1090,7 @@ def my_form_open(dialog, layer, feature):
     <field name="prot_categ" labelOnTop="0"/>
     <field name="rotat_age" labelOnTop="0"/>
     <field name="silvicult" labelOnTop="0"/>
-    <field name="site_type" labelOnTop="0"/>
+    <field name="typ_sied" labelOnTop="0"/>
     <field name="spec_age" labelOnTop="0"/>
     <field name="species_cd" labelOnTop="0"/>
     <field name="stand_stru" labelOnTop="0"/>
